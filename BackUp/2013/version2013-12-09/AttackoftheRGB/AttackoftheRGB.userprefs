@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\C#\GameOver.cs">
+    <Files>
+      <File FileName="Assets\Scripts\C#\Enemy Scripts\Red\redBossCollision.cs" Line="56" Column="3" />
+      <File FileName="Assets\Scripts\C#\Enemy Scripts\Green\greenBossCollision.cs" Line="33" Column="27" />
+      <File FileName="Assets\Scripts\C#\Enemy Scripts\Blue\blueBossCollision.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\C#\BonusLevelManager.cs" Line="35" Column="28" />
+      <File FileName="Assets\Scripts\C#\roundsAndEnemyManager.cs" Line="180" Column="5" />
+      <File FileName="Assets\Scripts\C#\pauseMenu.cs" Line="63" Column="6" />
+      <File FileName="Assets\Scripts\C#\GameOver.cs" Line="26" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

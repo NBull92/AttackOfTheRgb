@@ -1,0 +1,4 @@
+character ideas:-
+- Characters explode
+	- build another version of each character 		thats made up of sections and then when that 	character is destroyed, load the exploding 	version and push each joint in different 	directions. use tornados 'kill me over time 	script to make the pieces disapear after a 	while.
+- one of the bosses be like th worm in gears of war, you have to destroy it a piece at a time and its head is indistructable until it's the last body part

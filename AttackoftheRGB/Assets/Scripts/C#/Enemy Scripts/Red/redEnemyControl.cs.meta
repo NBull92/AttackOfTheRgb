@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: fb421baa6dc1db84099e6a6c63e1c9b5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - LookAtTarget: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  - myTransform: {instanceID: 0}
+  - shootSound: {fileID: 8300000, guid: bdb2dcc680f744049889eacc0d3ba7e9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

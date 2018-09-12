@@ -1,0 +1,53 @@
+Main Menu
+	Shuffle of:
+		Impasse (Track 1)
+		The Sky Fell (Track 1)
+		The Calm (Track 1)
+		Arisen (Track 1)
+		Overflow (Track 1)
+	
+
+Game Background
+	Shuffle Of:
+		Impasse (Track 1)
+		The Sky Fell (Track 1)
+		The Calm (Track 1)
+		Arisen (Track 1)
+		Overflow (Track 1)
+		March To The North (Track 4)
+		For Honor (Track 4)
+
+Laser Shooting
+	Player
+		Laser One (Track 2) --DONE--
+	Red Enemy
+		Laser Two (Track 2) --DONE--
+	Green Enemy
+		Laser Three (Track 2) --DONE--
+	Blue Enemy
+		Laser Four (Track 2) --DONE--
+	
+Boss Levels
+	Spider Kings (Track 3)
+
+Bonus Round
+
+Complete a Round
+	Win Sound 005 (Track 6) --DONE--
+
+Collect Ally
+	Confirmation FX (Track 5) --DONE--
+
+Game Win
+	Win Sound 004  (Track 6)
+	
+	
+
+-----Track-----
+1) http://audiojungle.net/item/epic-scifi-score-pack/6105206
+2) http://audiojungle.net/item/cheesy-laser-zaps/6391795?WT.ac=category_item&WT.seg_1=category_item&WT.z_author=ShoutFX
+3) http://audiojungle.net/item/spider-kings/3587428?WT.ac=item_more_thumb&WT.seg_1=item_more_thumb&WT.z_author=r00d
+4) http://audiojungle.net/item/fantasy-game-pack-2/6434372?WT.ac=category_thumb&WT.seg_1=category_thumb&WT.z_author=mlamanna
+5) http://audiojungle.net/item/confirmation-fx/6712437?WT.ac=category_item&WT.seg_1=category_item&WT.z_author=PoseidonFX
+6) http://audiojungle.net/item/win-sound-004/5972099
+7) http://audiojungle.net/item/win-sound-005/5972101
