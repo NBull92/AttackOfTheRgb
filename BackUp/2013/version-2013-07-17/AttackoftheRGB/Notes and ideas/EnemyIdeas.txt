@@ -1,5 +1,0 @@
-Red - single barrell gun
-Green - double barrell gun
-Blue - quad barrell gun
-
-- Each wave the Set of rounds the Reds change their look to another class.
